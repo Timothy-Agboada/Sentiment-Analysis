@@ -2,14 +2,14 @@
 Repo for a model that analyzes sentiments in comments
 
 # Overview
- The repo provides an output of either positive, neutral, or negative sentiments based on the comments reviewers leave about the app.
- Libraries such as pandas, matplotlib, seaborn, textblob and wordcloud
- The model compares the ratings users gave the app to the results of sentiment analysis to understand if the comments translate to the ratings
- A word cloud is generated for the positive, negative, and neutral sentiments respectively
+* The repo provides an output of either positive, neutral, or negative sentiments based on the comments reviewers leave about the app.
+* Libraries such as pandas, matplotlib, seaborn, textblob and wordcloud
+* The model compares the ratings users gave the app to the results of sentiment analysis to understand if the comments translate to the ratings
+* A word cloud is generated for the positive, negative, and neutral sentiments respectively
 
 # Notes
- Although a specific data set is used for this model, it can be easily altered to cater for other datasets
- Data was acquired from www.statso.io 
+* Although a specific data set is used for this model, it can be easily altered to cater for other datasets
+* Data was acquired from www.statso.io 
 
 # Sample Output
 <img width="1002" alt="Screenshot 2023-12-27 at 17 54 12" src="https://github.com/Timothy-Agboada/Sentiment-Analysis/assets/60673153/61fb74b5-0220-474d-bb31-d2743d5b2b98">
